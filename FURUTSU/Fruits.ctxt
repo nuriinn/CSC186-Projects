@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Fruits
+comment1.params=code\ condiments\ qty\ payment
+comment1.target=Fruits(int,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getCode()
+comment3.params=
+comment3.target=java.lang.String\ getCondiments()
+comment4.params=code
+comment4.target=void\ setCode(int)
+comment5.params=condiments
+comment5.target=void\ setCondiments(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ addOrderFruit()
+comment7.params=
+comment7.target=double\ addCondiments()
+comment8.params=
+comment8.target=double\ calculateTotal()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

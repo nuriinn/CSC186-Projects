@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DrinkP
+comment1.params=qty\ payment
+comment1.target=DrinkP(int,\ int)
+comment2.params=qty\ payment
+comment2.target=void\ setDrinkP(int,\ int)
+comment3.params=
+comment3.target=int\ getPayment()
+comment4.params=
+comment4.target=int\ getQty()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=double\ calculateTotal()
+numComments=7

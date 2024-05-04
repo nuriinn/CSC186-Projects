@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SmoothiesP
+comment1.params=code\ milkType\ qty\ payment
+comment1.target=SmoothiesP(char,\ char,\ int,\ int)
+comment10.params=
+comment10.target=double\ calculateTotal()
+comment2.params=
+comment2.target=char\ getCode()
+comment3.params=
+comment3.target=char\ getMilkType()
+comment4.params=code
+comment4.target=void\ setCode(char)
+comment5.params=milkType
+comment5.target=void\ setMilkType(char)
+comment6.params=type
+comment6.target=void\ addMilkType(char)
+comment7.params=
+comment7.target=java.lang.String\ addMilkType()
+comment8.params=cd
+comment8.target=void\ addOrderSmoothie(char)
+comment9.params=
+comment9.target=java.lang.String\ addOrderSmoothie()
+numComments=11
