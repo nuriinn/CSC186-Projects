@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HomeTown
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HomeTown\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HomeTown()
+comment2.params=district\ state\ country
+comment2.target=HomeTown(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getDistrict()
+comment4.params=
+comment4.target=java.lang.String\ getState()
+comment5.params=
+comment5.target=java.lang.String\ getCountry()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
